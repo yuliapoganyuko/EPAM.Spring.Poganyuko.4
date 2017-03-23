@@ -3,7 +3,7 @@
 namespace Task2Logic
 {
     /// <summary>
-    /// Represents generic queue - data structure based on prinsiple "First In First Out".
+    /// Represents generic queue - data structure based on principle "First In First Out".
     /// </summary>
     /// <typeparam name="T"> Type of values.</typeparam>
     /// <remarks> Based on circular buffer (array).</remarks>
