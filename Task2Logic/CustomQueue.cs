@@ -9,7 +9,7 @@ namespace Task2Logic
     /// <remarks> Based on circular buffer (array).</remarks>
     public class CustomQueue<T>
     {
-        #region Fiels
+        #region Fields
 
         private T[] backingArray;
         private int first, last, size;
